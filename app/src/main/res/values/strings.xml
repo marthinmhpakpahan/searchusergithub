@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SearchUserGithub</string>
+    <string name="hint_search_box">Search Github users</string>
+</resources>
